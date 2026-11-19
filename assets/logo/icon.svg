@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t">
+  <title id="t">LAND3 DESIGN icon</title>
+  <rect width="120" height="120" rx="22" fill="#1f1e1c"/>
+  <g fill="#d8b98a">
+    <rect x="30" y="30" width="60" height="10"/>
+    <rect x="42" y="55" width="48" height="10"/>
+    <rect x="30" y="80" width="60" height="10"/>
+    <rect x="80" y="30" width="10" height="60"/>
+  </g>
+  <rect x="30" y="30" width="10" height="60" fill="#b8925a" opacity="0.55"/>
+</svg>
